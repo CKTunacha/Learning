@@ -1,5 +1,12 @@
+Game:
 Entity base class
 Item base class 
 
 
-show items and entities using nextjs or react or some web framework for now
+Web:
+-Nodejs
+ -express
+ -ejs
+
+-CRUD for items and entities
+
